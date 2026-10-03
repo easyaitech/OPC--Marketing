@@ -1,0 +1,23 @@
+{
+  "skill_name": "opc-marketing",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "我做了个记账 app，刚上架，想推广一下，帮我出个营销方案吧",
+      "expected_output": "信息太泛，不应直接给方案；应该给出第一轮问诊（基础盘 + 资源约束），口语化、分组，不超过 9 个问题。",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "我是独立开发者，做了个 iOS app 叫萌选，帮宝爸宝妈从一堆连拍照片里挑出最好的一两张，本地 AI 处理不上传。目标用户是 0-3 岁宝宝的家长，主要是妈妈，一天能拍几十上百张，相册爆满又舍不得删。现在大家都是手动一张张翻、或者干脆不删。先做中国市场，已经有 ICP 备案，iOS 上架了。免费每天 50 张，订阅 18 元/月。上线 3 周，大概 400 个下载，次日留存 30% 左右，7 日留存还没数据，付费 6 个。我每周最多 8 小时搞推广，预算每月 1000 块以内。我会写东西、会做设计，不想出镜。听说大家都去上 Product Hunt、投抖音，我要不要也搞？",
+      "expected_output": "信息基本齐全。应先简短复述理解（或直接进入方案并标注假设），给出一页纸：1 个主攻（大概率小红书或 ASO）+ 最多 1 个辅助；明确把 Product Hunt、抖音投放放进不做清单并说明原因；每周时间不超过约 6.4 小时；说清 AI 分工。",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Solo dev here. Built a Chrome extension + web app that turns messy meeting notes into Jira tickets. Target: engineering managers at 20-200 person startups in the US who run 3+ syncs a week. They currently copy-paste by hand or just don't file tickets. $12/user/month, 14-day trial. Launched 2 months ago, 60 signups, 5 paying teams, people who activate keep using it weekly. I have maybe 5 hrs/week for marketing and $300/month. I'm fine writing, hate video, okay doing DMs. Where should I put my time?",
+      "expected_output": "Information is complete enough. Should produce the one-pager in English: one primary channel (e.g. direct outreach / cold email / Reddit-type community for EMs, or SEO only if justified) plus at most one secondary; a not-doing list covering video channels, paid ads, etc. with reconsider conditions; weekly hours ≤ 4; AI vs human split per channel.",
+      "files": []
+    }
+  ]
+}
