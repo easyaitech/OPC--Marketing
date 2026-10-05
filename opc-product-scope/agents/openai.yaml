@@ -1,0 +1,3 @@
+interface:
+  display_name: "OPC 产品范围取舍"
+  short_description: "帮助个人开发者评估新增功能与产品改动，聚焦核心痛点并收敛最小范围"
